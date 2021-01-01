@@ -8,7 +8,9 @@ import SearchScreen from './Screens/SearchScreen';
 
 export default class App extends React.Component{
   render(){
-    return <AppContainer/>;
+    return (
+  
+    <AppContainer/>);
 
   }
 }
